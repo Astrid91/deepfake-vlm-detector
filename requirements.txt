@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision>=0.18
+transformers>=4.41
+peft>=0.10
+scikit-learn>=1.5
+pandas>=2.2
+pillow>=10.2
+tqdm>=4.66
+matplotlib>=3.9
+captum>=0.7   # 只有做顯著性圖才需要
+numpy
