@@ -60,7 +60,9 @@ deepfake-vlm-detector/
 
 
 ## Pre-trained weights
-The best checkpoint (best.pt, 4 MB) and LoRA adapter (~60 MB) are placed under:
+[Download weights.zip from Release](https://github.com/Astrid91/deepfake-vlm-detector/releases/tag/v1.0)
+
+After downloading, please extract the file into the weights/ folder.
 
 ```bash
 weights/
